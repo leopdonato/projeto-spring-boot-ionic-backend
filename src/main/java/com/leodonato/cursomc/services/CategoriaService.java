@@ -11,7 +11,6 @@ import org.springframework.data.domain.Sort.Direction;
 import org.springframework.stereotype.Service;
 
 import com.leodonato.cursomc.domain.Categoria;
-import com.leodonato.cursomc.domain.Cliente;
 import com.leodonato.cursomc.dto.CategoriaDTO;
 import com.leodonato.cursomc.repositories.CategoriaRepository;
 import com.leodonato.cursomc.services.exceptions.DataIntegrityException;
