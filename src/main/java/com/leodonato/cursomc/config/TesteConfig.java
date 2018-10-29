@@ -28,4 +28,5 @@ public class TesteConfig {
 	public EmailService emailService() {
 		return new MockEmailService();
 	}
+
 }
